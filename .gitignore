@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+*.log
+.env
+.DS_Store
+runtime
+public/uploads
+/.htaccess
+.user.ini
+config/database.php
